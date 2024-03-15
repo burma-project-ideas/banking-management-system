@@ -68,6 +68,13 @@ Customer ငွေလွှဲချင်သည့် အကောင့်ထ�
 ပြီးရင် လွှဲပေးလိုက်တဲ့ Account ကျတော့ Amount ကို ပေါင်းပေးရမယ်။ လက်ရှိ 200, လွှဲလိုက်တာ 200 ဆို
 စုစုပေါင်း သူ့လက်ကျန်က 400 ဖြစ်ရပါမယ်။ လွှဲမယ့်သူဆီက နုတ်ပြီး လက်ခံရမယ့်သူဆီ ပေါင်းပေးရမယ်ဆိုတဲ့ သဘောပါ။
 
+- Transaction History
+  - [TransactionHistoryId] [int] IDENTITY(1,1) NOT NULL
+  - [FromAccountNo] [nvarchar](50) NOT NULL
+  - [ToAccountNo] [nvarchar](50) NOT NULL
+  - [TransactionDate] [datetime] NOT NULL
+  - [Amount] [decimal](20, 2) NOT NULL
+
 
 -----
 
