@@ -27,6 +27,17 @@ Summary
 ### State and Township List
 State And Township Data တွေကို ဤ [Link](https://themimu.info/place-codes) ကနေ ထုတ်ယူထားတယ်။ Account ဖွင့်ရာတွင်အသုံးပြုတယ်။ ဘယ်နေရာ ဒေသမှာ ဖွင့်ထားသလဲဆိုတာ သိဖို့အတွက် ဖြစ်တယ်။
 
+- State
+  - [StateId] [int] IDENTITY(1,1) NOT NULL
+  - [StateCode] [nvarchar](50) NOT NULL
+  - [StateName] [nvarchar](50) NOT NULL
+
+- Township
+  - [TownshipId] [int] IDENTITY(1,1) NOT NULL
+  -	[TownshipCode] [nvarchar](50) NOT NULL
+  -	[TownshipName] [nvarchar](50) NOT NULL
+  -	[StateCode] [nvarchar](50) NOT NULL
+
 -----
 
 ### Create Account
