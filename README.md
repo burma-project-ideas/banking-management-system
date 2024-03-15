@@ -43,6 +43,13 @@ State And Township Data တွေကို ဤ [Link](https://themimu.info/place
 ### Create Account
 ဘဏ်တွင် ငွေသွင်း ငွေလွှဲ service များကိုအသုံးပြုလိုပါက ဘဏ်တွင် account ဖွင့်ရပါမည်။
 
+- Account
+  - [AccountId] [int] IDENTITY(1,1) NOT NULL
+  -	[AccountNo] AS (right('000000'+ CONVERT([varchar](6),[AccountId]),(6)))
+  -	[CustomerCode] AS ('C' + right('000000'+ CONVERT([varchar](6),[AccountId]),(6)))
+  -	[CustomerName] [nvarchar](50) NOT NULL
+  -	[Balance] [decimal](20, 2) NOT NULL
+
 -----
 
 ### Account List
