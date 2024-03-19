@@ -54,6 +54,8 @@ State And Township Data တွေကို ဤ [Link](https://themimu.info/place
   -	[CustomerCode] AS ('C' + right('000000'+ CONVERT([varchar](6),[AccountId]),(6)))
   -	[CustomerName] [nvarchar](50) NOT NULL
   -	[Balance] [decimal](20, 2) NOT NULL
+  - [StateCode] [nvarchar](50) NOT NULL
+  - [TownshipCode] [nvarchar](50) NOT NULL
 
 -----
 
