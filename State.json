@@ -1,0 +1,102 @@
+[
+  {
+    "StateId": 1,
+    "StateCode": "MMR001",
+    "StateName": "Kachin"
+  },
+  {
+    "StateId": 2,
+    "StateCode": "MMR002",
+    "StateName": "Kayah"
+  },
+  {
+    "StateId": 3,
+    "StateCode": "MMR003",
+    "StateName": "Kayin"
+  },
+  {
+    "StateId": 4,
+    "StateCode": "MMR004",
+    "StateName": "Chin"
+  },
+  {
+    "StateId": 5,
+    "StateCode": "MMR005",
+    "StateName": "Sagaing"
+  },
+  {
+    "StateId": 6,
+    "StateCode": "MMR006",
+    "StateName": "Tanintharyi"
+  },
+  {
+    "StateId": 7,
+    "StateCode": "MMR007",
+    "StateName": "Bago (East)"
+  },
+  {
+    "StateId": 8,
+    "StateCode": "MMR008",
+    "StateName": "Bago (West)"
+  },
+  {
+    "StateId": 9,
+    "StateCode": "MMR009",
+    "StateName": "Magway"
+  },
+  {
+    "StateId": 10,
+    "StateCode": "MMR010",
+    "StateName": "Mandalay"
+  },
+  {
+    "StateId": 11,
+    "StateCode": "MMR011",
+    "StateName": "Mon"
+  },
+  {
+    "StateId": 12,
+    "StateCode": "MMR012",
+    "StateName": "Rakhine"
+  },
+  {
+    "StateId": 13,
+    "StateCode": "MMR013",
+    "StateName": "Yangon"
+  },
+  {
+    "StateId": 14,
+    "StateCode": "MMR014",
+    "StateName": "Shan (South)"
+  },
+  {
+    "StateId": 15,
+    "StateCode": "MMR015",
+    "StateName": "Shan (North)"
+  },
+  {
+    "StateId": 16,
+    "StateCode": "MMR016",
+    "StateName": "Shan (East)"
+  },
+  {
+    "StateId": 17,
+    "StateCode": "MMR017",
+    "StateName": "Ayeyarwady"
+  },
+  {
+    "StateId": 18,
+    "StateCode": "MMR018",
+    "StateName": "Nay Pyi Taw"
+  },
+  {
+    "StateId": 19,
+    "StateCode": "MMR111",
+    "StateName": "Bago"
+  },
+  {
+    "StateId": 20,
+    "StateCode": "MMR222",
+    "StateName": "Shan"
+  }
+]

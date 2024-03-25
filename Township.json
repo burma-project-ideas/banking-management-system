@@ -1,0 +1,2144 @@
+[
+  {
+    "TownshipId": 2,
+    "TownshipCode": "MMR017022",
+    "TownshipName": "Danubyu",
+    "StateCode": "MMR017"
+  },
+  {
+    "TownshipId": 3,
+    "TownshipCode": "MMR017026",
+    "TownshipName": "Dedaye",
+    "StateCode": "MMR017"
+  },
+  {
+    "TownshipId": 4,
+    "TownshipCode": "MMR017015",
+    "TownshipName": "Einme",
+    "StateCode": "MMR017"
+  },
+  {
+    "TownshipId": 5,
+    "TownshipCode": "MMR017008",
+    "TownshipName": "Hinthada",
+    "StateCode": "MMR017"
+  },
+  {
+    "TownshipId": 6,
+    "TownshipCode": "MMR017013",
+    "TownshipName": "Ingapu",
+    "StateCode": "MMR017"
+  },
+  {
+    "TownshipId": 7,
+    "TownshipCode": "MMR017002",
+    "TownshipName": "Kangyidaunt",
+    "StateCode": "MMR017"
+  },
+  {
+    "TownshipId": 8,
+    "TownshipCode": "MMR017025",
+    "TownshipName": "Kyaiklat",
+    "StateCode": "MMR017"
+  },
+  {
+    "TownshipId": 9,
+    "TownshipCode": "MMR017012",
+    "TownshipName": "Kyangin",
+    "StateCode": "MMR017"
+  },
+  {
+    "TownshipId": 10,
+    "TownshipCode": "MMR017007",
+    "TownshipName": "Kyaunggon",
+    "StateCode": "MMR017"
+  },
+  {
+    "TownshipId": 11,
+    "TownshipCode": "MMR017005",
+    "TownshipName": "Kyonpyaw",
+    "StateCode": "MMR017"
+  },
+  {
+    "TownshipId": 12,
+    "TownshipCode": "MMR017016",
+    "TownshipName": "Labutta",
+    "StateCode": "MMR017"
+  },
+  {
+    "TownshipId": 13,
+    "TownshipCode": "MMR017010",
+    "TownshipName": "Lemyethna",
+    "StateCode": "MMR017"
+  },
+  {
+    "TownshipId": 14,
+    "TownshipCode": "MMR017019",
+    "TownshipName": "Maubin",
+    "StateCode": "MMR017"
+  },
+  {
+    "TownshipId": 15,
+    "TownshipCode": "MMR017018",
+    "TownshipName": "Mawlamyinegyun",
+    "StateCode": "MMR017"
+  },
+  {
+    "TownshipId": 16,
+    "TownshipCode": "MMR017011",
+    "TownshipName": "Myanaung",
+    "StateCode": "MMR017"
+  },
+  {
+    "TownshipId": 17,
+    "TownshipCode": "MMR017014",
+    "TownshipName": "Myaungmya",
+    "StateCode": "MMR017"
+  },
+  {
+    "TownshipId": 18,
+    "TownshipCode": "MMR017004",
+    "TownshipName": "Ngapudaw",
+    "StateCode": "MMR017"
+  },
+  {
+    "TownshipId": 19,
+    "TownshipCode": "MMR017021",
+    "TownshipName": "Nyaungdon",
+    "StateCode": "MMR017"
+  },
+  {
+    "TownshipId": 20,
+    "TownshipCode": "MMR017020",
+    "TownshipName": "Pantanaw",
+    "StateCode": "MMR017"
+  },
+  {
+    "TownshipId": 21,
+    "TownshipCode": "MMR017001",
+    "TownshipName": "Pathein",
+    "StateCode": "MMR017"
+  },
+  {
+    "TownshipId": 22,
+    "TownshipCode": "MMR017023",
+    "TownshipName": "Pyapon",
+    "StateCode": "MMR017"
+  },
+  {
+    "TownshipId": 23,
+    "TownshipCode": "MMR017003",
+    "TownshipName": "Thabaung",
+    "StateCode": "MMR017"
+  },
+  {
+    "TownshipId": 24,
+    "TownshipCode": "MMR017017",
+    "TownshipName": "Wakema",
+    "StateCode": "MMR017"
+  },
+  {
+    "TownshipId": 25,
+    "TownshipCode": "MMR017006",
+    "TownshipName": "Yegyi",
+    "StateCode": "MMR017"
+  },
+  {
+    "TownshipId": 26,
+    "TownshipCode": "MMR017009",
+    "TownshipName": "Zalun",
+    "StateCode": "MMR017"
+  },
+  {
+    "TownshipId": 27,
+    "TownshipCode": "MMR007001",
+    "TownshipName": "Bago",
+    "StateCode": "MMR007"
+  },
+  {
+    "TownshipId": 28,
+    "TownshipCode": "MMR007007",
+    "TownshipName": "Daik-U",
+    "StateCode": "MMR007"
+  },
+  {
+    "TownshipId": 29,
+    "TownshipCode": "MMR007014",
+    "TownshipName": "Htantabin",
+    "StateCode": "MMR007"
+  },
+  {
+    "TownshipId": 30,
+    "TownshipCode": "MMR007003",
+    "TownshipName": "Kawa",
+    "StateCode": "MMR007"
+  },
+  {
+    "TownshipId": 31,
+    "TownshipCode": "MMR007011",
+    "TownshipName": "Kyaukkyi",
+    "StateCode": "MMR007"
+  },
+  {
+    "TownshipId": 32,
+    "TownshipCode": "MMR007006",
+    "TownshipName": "Kyauktaga",
+    "StateCode": "MMR007"
+  },
+  {
+    "TownshipId": 33,
+    "TownshipCode": "MMR007005",
+    "TownshipName": "Nyaunglebin",
+    "StateCode": "MMR007"
+  },
+  {
+    "TownshipId": 34,
+    "TownshipCode": "MMR007013",
+    "TownshipName": "Oktwin",
+    "StateCode": "MMR007"
+  },
+  {
+    "TownshipId": 35,
+    "TownshipCode": "MMR007012",
+    "TownshipName": "Phyu",
+    "StateCode": "MMR007"
+  },
+  {
+    "TownshipId": 36,
+    "TownshipCode": "MMR007008",
+    "TownshipName": "Shwegyin",
+    "StateCode": "MMR007"
+  },
+  {
+    "TownshipId": 37,
+    "TownshipCode": "MMR007009",
+    "TownshipName": "Taungoo",
+    "StateCode": "MMR007"
+  },
+  {
+    "TownshipId": 38,
+    "TownshipCode": "MMR007002",
+    "TownshipName": "Thanatpin",
+    "StateCode": "MMR007"
+  },
+  {
+    "TownshipId": 39,
+    "TownshipCode": "MMR007004",
+    "TownshipName": "Waw",
+    "StateCode": "MMR007"
+  },
+  {
+    "TownshipId": 40,
+    "TownshipCode": "MMR007010",
+    "TownshipName": "Yedashe",
+    "StateCode": "MMR007"
+  },
+  {
+    "TownshipId": 41,
+    "TownshipCode": "MMR008014",
+    "TownshipName": "Gyobingauk",
+    "StateCode": "MMR008"
+  },
+  {
+    "TownshipId": 42,
+    "TownshipCode": "MMR008008",
+    "TownshipName": "Letpadan",
+    "StateCode": "MMR008"
+  },
+  {
+    "TownshipId": 43,
+    "TownshipCode": "MMR008009",
+    "TownshipName": "Minhla",
+    "StateCode": "MMR008"
+  },
+  {
+    "TownshipId": 44,
+    "TownshipCode": "MMR008013",
+    "TownshipName": "Monyo",
+    "StateCode": "MMR008"
+  },
+  {
+    "TownshipId": 45,
+    "TownshipCode": "MMR008012",
+    "TownshipName": "Nattalin",
+    "StateCode": "MMR008"
+  },
+  {
+    "TownshipId": 46,
+    "TownshipCode": "MMR008010",
+    "TownshipName": "Okpho",
+    "StateCode": "MMR008"
+  },
+  {
+    "TownshipId": 47,
+    "TownshipCode": "MMR008003",
+    "TownshipName": "Padaung",
+    "StateCode": "MMR008"
+  },
+  {
+    "TownshipId": 48,
+    "TownshipCode": "MMR008002",
+    "TownshipName": "Paukkhaung",
+    "StateCode": "MMR008"
+  },
+  {
+    "TownshipId": 49,
+    "TownshipCode": "MMR008004",
+    "TownshipName": "Paungde",
+    "StateCode": "MMR008"
+  },
+  {
+    "TownshipId": 50,
+    "TownshipCode": "MMR008001",
+    "TownshipName": "Pyay",
+    "StateCode": "MMR008"
+  },
+  {
+    "TownshipId": 51,
+    "TownshipCode": "MMR008006",
+    "TownshipName": "Shwedaung",
+    "StateCode": "MMR008"
+  },
+  {
+    "TownshipId": 52,
+    "TownshipCode": "MMR008007",
+    "TownshipName": "Thayarwady",
+    "StateCode": "MMR008"
+  },
+  {
+    "TownshipId": 53,
+    "TownshipCode": "MMR008005",
+    "TownshipName": "Thegon",
+    "StateCode": "MMR008"
+  },
+  {
+    "TownshipId": 54,
+    "TownshipCode": "MMR008011",
+    "TownshipName": "Zigon",
+    "StateCode": "MMR008"
+  },
+  {
+    "TownshipId": 55,
+    "TownshipCode": "MMR004001",
+    "TownshipName": "Falam",
+    "StateCode": "MMR004"
+  },
+  {
+    "TownshipId": 56,
+    "TownshipCode": "MMR004002",
+    "TownshipName": "Hakha",
+    "StateCode": "MMR004"
+  },
+  {
+    "TownshipId": 57,
+    "TownshipCode": "MMR004008",
+    "TownshipName": "Kanpetlet",
+    "StateCode": "MMR004"
+  },
+  {
+    "TownshipId": 58,
+    "TownshipCode": "MMR004007",
+    "TownshipName": "Matupi",
+    "StateCode": "MMR004"
+  },
+  {
+    "TownshipId": 59,
+    "TownshipCode": "MMR004006",
+    "TownshipName": "Mindat",
+    "StateCode": "MMR004"
+  },
+  {
+    "TownshipId": 60,
+    "TownshipCode": "MMR004009",
+    "TownshipName": "Paletwa",
+    "StateCode": "MMR004"
+  },
+  {
+    "TownshipId": 61,
+    "TownshipCode": "MMR004004",
+    "TownshipName": "Tedim",
+    "StateCode": "MMR004"
+  },
+  {
+    "TownshipId": 62,
+    "TownshipCode": "MMR004003",
+    "TownshipName": "Thantlang",
+    "StateCode": "MMR004"
+  },
+  {
+    "TownshipId": 63,
+    "TownshipCode": "MMR004005",
+    "TownshipName": "Tonzang",
+    "StateCode": "MMR004"
+  },
+  {
+    "TownshipId": 64,
+    "TownshipCode": "MMR001010",
+    "TownshipName": "Bhamo",
+    "StateCode": "MMR001"
+  },
+  {
+    "TownshipId": 65,
+    "TownshipCode": "MMR001005",
+    "TownshipName": "Chipwi",
+    "StateCode": "MMR001"
+  },
+  {
+    "TownshipId": 66,
+    "TownshipCode": "MMR001009",
+    "TownshipName": "Hpakant",
+    "StateCode": "MMR001"
+  },
+  {
+    "TownshipId": 67,
+    "TownshipCode": "MMR001003",
+    "TownshipName": "Injangyang",
+    "StateCode": "MMR001"
+  },
+  {
+    "TownshipId": 68,
+    "TownshipCode": "MMR001018",
+    "TownshipName": "Khaunglanhpu",
+    "StateCode": "MMR001"
+  },
+  {
+    "TownshipId": 69,
+    "TownshipCode": "MMR001016",
+    "TownshipName": "Machanbaw",
+    "StateCode": "MMR001"
+  },
+  {
+    "TownshipId": 70,
+    "TownshipCode": "MMR001013",
+    "TownshipName": "Mansi",
+    "StateCode": "MMR001"
+  },
+  {
+    "TownshipId": 71,
+    "TownshipCode": "MMR001008",
+    "TownshipName": "Mogaung",
+    "StateCode": "MMR001"
+  },
+  {
+    "TownshipId": 72,
+    "TownshipCode": "MMR001007",
+    "TownshipName": "Mohnyin",
+    "StateCode": "MMR001"
+  },
+  {
+    "TownshipId": 73,
+    "TownshipCode": "MMR001012",
+    "TownshipName": "Momauk",
+    "StateCode": "MMR001"
+  },
+  {
+    "TownshipId": 74,
+    "TownshipCode": "MMR001001",
+    "TownshipName": "Myitkyina",
+    "StateCode": "MMR001"
+  },
+  {
+    "TownshipId": 75,
+    "TownshipCode": "MMR001017",
+    "TownshipName": "Nawngmun",
+    "StateCode": "MMR001"
+  },
+  {
+    "TownshipId": 76,
+    "TownshipCode": "MMR001014",
+    "TownshipName": "Puta-O",
+    "StateCode": "MMR001"
+  },
+  {
+    "TownshipId": 77,
+    "TownshipCode": "MMR001011",
+    "TownshipName": "Shwegu",
+    "StateCode": "MMR001"
+  },
+  {
+    "TownshipId": 78,
+    "TownshipCode": "MMR001015",
+    "TownshipName": "Sumprabum",
+    "StateCode": "MMR001"
+  },
+  {
+    "TownshipId": 79,
+    "TownshipCode": "MMR001004",
+    "TownshipName": "Tanai",
+    "StateCode": "MMR001"
+  },
+  {
+    "TownshipId": 80,
+    "TownshipCode": "MMR001006",
+    "TownshipName": "Tsawlaw",
+    "StateCode": "MMR001"
+  },
+  {
+    "TownshipId": 81,
+    "TownshipCode": "MMR001002",
+    "TownshipName": "Waingmaw",
+    "StateCode": "MMR001"
+  },
+  {
+    "TownshipId": 82,
+    "TownshipCode": "MMR002005",
+    "TownshipName": "Bawlake",
+    "StateCode": "MMR002"
+  },
+  {
+    "TownshipId": 83,
+    "TownshipCode": "MMR002002",
+    "TownshipName": "Demoso",
+    "StateCode": "MMR002"
+  },
+  {
+    "TownshipId": 84,
+    "TownshipCode": "MMR002006",
+    "TownshipName": "Hpasawng",
+    "StateCode": "MMR002"
+  },
+  {
+    "TownshipId": 85,
+    "TownshipCode": "MMR002003",
+    "TownshipName": "Hpruso",
+    "StateCode": "MMR002"
+  },
+  {
+    "TownshipId": 86,
+    "TownshipCode": "MMR002001",
+    "TownshipName": "Loikaw",
+    "StateCode": "MMR002"
+  },
+  {
+    "TownshipId": 87,
+    "TownshipCode": "MMR002007",
+    "TownshipName": "Mese",
+    "StateCode": "MMR002"
+  },
+  {
+    "TownshipId": 88,
+    "TownshipCode": "MMR002004",
+    "TownshipName": "Shadaw",
+    "StateCode": "MMR002"
+  },
+  {
+    "TownshipId": 89,
+    "TownshipCode": "MMR003002",
+    "TownshipName": "Hlaingbwe",
+    "StateCode": "MMR003"
+  },
+  {
+    "TownshipId": 90,
+    "TownshipCode": "MMR003001",
+    "TownshipName": "Hpa-An",
+    "StateCode": "MMR003"
+  },
+  {
+    "TownshipId": 91,
+    "TownshipCode": "MMR003003",
+    "TownshipName": "Hpapun",
+    "StateCode": "MMR003"
+  },
+  {
+    "TownshipId": 92,
+    "TownshipCode": "MMR003006",
+    "TownshipName": "Kawkareik",
+    "StateCode": "MMR003"
+  },
+  {
+    "TownshipId": 93,
+    "TownshipCode": "MMR003007",
+    "TownshipName": "Kyainseikgyi",
+    "StateCode": "MMR003"
+  },
+  {
+    "TownshipId": 94,
+    "TownshipCode": "MMR003005",
+    "TownshipName": "Myawaddy",
+    "StateCode": "MMR003"
+  },
+  {
+    "TownshipId": 95,
+    "TownshipCode": "MMR003004",
+    "TownshipName": "Thandaunggyi",
+    "StateCode": "MMR003"
+  },
+  {
+    "TownshipId": 96,
+    "TownshipCode": "MMR009016",
+    "TownshipName": "Aunglan",
+    "StateCode": "MMR009"
+  },
+  {
+    "TownshipId": 97,
+    "TownshipCode": "MMR009003",
+    "TownshipName": "Chauk",
+    "StateCode": "MMR009"
+  },
+  {
+    "TownshipId": 98,
+    "TownshipCode": "MMR009023",
+    "TownshipName": "Gangaw",
+    "StateCode": "MMR009"
+  },
+  {
+    "TownshipId": 99,
+    "TownshipCode": "MMR009015",
+    "TownshipName": "Kamma",
+    "StateCode": "MMR009"
+  },
+  {
+    "TownshipId": 100,
+    "TownshipCode": "MMR009001",
+    "TownshipName": "Magway",
+    "StateCode": "MMR009"
+  },
+  {
+    "TownshipId": 101,
+    "TownshipCode": "MMR009007",
+    "TownshipName": "Minbu",
+    "StateCode": "MMR009"
+  },
+  {
+    "TownshipId": 102,
+    "TownshipCode": "MMR009014",
+    "TownshipName": "Mindon",
+    "StateCode": "MMR009"
+  },
+  {
+    "TownshipId": 103,
+    "TownshipCode": "MMR009013",
+    "TownshipName": "Minhla",
+    "StateCode": "MMR009"
+  },
+  {
+    "TownshipId": 104,
+    "TownshipCode": "MMR009020",
+    "TownshipName": "Myaing",
+    "StateCode": "MMR009"
+  },
+  {
+    "TownshipId": 105,
+    "TownshipCode": "MMR009005",
+    "TownshipName": "Myothit",
+    "StateCode": "MMR009"
+  },
+  {
+    "TownshipId": 106,
+    "TownshipCode": "MMR009006",
+    "TownshipName": "Natmauk",
+    "StateCode": "MMR009"
+  },
+  {
+    "TownshipId": 107,
+    "TownshipCode": "MMR009009",
+    "TownshipName": "Ngape",
+    "StateCode": "MMR009"
+  },
+  {
+    "TownshipId": 108,
+    "TownshipCode": "MMR009018",
+    "TownshipName": "Pakokku",
+    "StateCode": "MMR009"
+  },
+  {
+    "TownshipId": 109,
+    "TownshipCode": "MMR009021",
+    "TownshipName": "Pauk",
+    "StateCode": "MMR009"
+  },
+  {
+    "TownshipId": 110,
+    "TownshipCode": "MMR009008",
+    "TownshipName": "Pwintbyu",
+    "StateCode": "MMR009"
+  },
+  {
+    "TownshipId": 111,
+    "TownshipCode": "MMR009010",
+    "TownshipName": "Salin",
+    "StateCode": "MMR009"
+  },
+  {
+    "TownshipId": 112,
+    "TownshipCode": "MMR009025",
+    "TownshipName": "Saw",
+    "StateCode": "MMR009"
+  },
+  {
+    "TownshipId": 113,
+    "TownshipCode": "MMR009022",
+    "TownshipName": "Seikphyu",
+    "StateCode": "MMR009"
+  },
+  {
+    "TownshipId": 114,
+    "TownshipCode": "MMR009011",
+    "TownshipName": "Sidoktaya",
+    "StateCode": "MMR009"
+  },
+  {
+    "TownshipId": 115,
+    "TownshipCode": "MMR009017",
+    "TownshipName": "Sinbaungwe",
+    "StateCode": "MMR009"
+  },
+  {
+    "TownshipId": 116,
+    "TownshipCode": "MMR009004",
+    "TownshipName": "Taungdwingyi",
+    "StateCode": "MMR009"
+  },
+  {
+    "TownshipId": 117,
+    "TownshipCode": "MMR009012",
+    "TownshipName": "Thayet",
+    "StateCode": "MMR009"
+  },
+  {
+    "TownshipId": 118,
+    "TownshipCode": "MMR009024",
+    "TownshipName": "Tilin",
+    "StateCode": "MMR009"
+  },
+  {
+    "TownshipId": 119,
+    "TownshipCode": "MMR009002",
+    "TownshipName": "Yenangyaung",
+    "StateCode": "MMR009"
+  },
+  {
+    "TownshipId": 120,
+    "TownshipCode": "MMR009019",
+    "TownshipName": "Yesagyo",
+    "StateCode": "MMR009"
+  },
+  {
+    "TownshipId": 121,
+    "TownshipCode": "MMR010006",
+    "TownshipName": "Amarapura",
+    "StateCode": "MMR010"
+  },
+  {
+    "TownshipId": 122,
+    "TownshipCode": "MMR010001",
+    "TownshipName": "Aungmyaythazan",
+    "StateCode": "MMR010"
+  },
+  {
+    "TownshipId": 123,
+    "TownshipCode": "MMR010002",
+    "TownshipName": "Chanayethazan",
+    "StateCode": "MMR010"
+  },
+  {
+    "TownshipId": 124,
+    "TownshipCode": "MMR010004",
+    "TownshipName": "Chanmyathazi",
+    "StateCode": "MMR010"
+  },
+  {
+    "TownshipId": 125,
+    "TownshipCode": "MMR010020",
+    "TownshipName": "Kyaukpadaung",
+    "StateCode": "MMR010"
+  },
+  {
+    "TownshipId": 126,
+    "TownshipCode": "MMR010013",
+    "TownshipName": "Kyaukse",
+    "StateCode": "MMR010"
+  },
+  {
+    "TownshipId": 127,
+    "TownshipCode": "MMR010009",
+    "TownshipName": "Madaya",
+    "StateCode": "MMR010"
+  },
+  {
+    "TownshipId": 128,
+    "TownshipCode": "MMR010003",
+    "TownshipName": "Mahaaungmyay",
+    "StateCode": "MMR010"
+  },
+  {
+    "TownshipId": 129,
+    "TownshipCode": "MMR010029",
+    "TownshipName": "Mahlaing",
+    "StateCode": "MMR010"
+  },
+  {
+    "TownshipId": 130,
+    "TownshipCode": "MMR010028",
+    "TownshipName": "Meiktila",
+    "StateCode": "MMR010"
+  },
+  {
+    "TownshipId": 131,
+    "TownshipCode": "MMR010011",
+    "TownshipName": "Mogoke",
+    "StateCode": "MMR010"
+  },
+  {
+    "TownshipId": 132,
+    "TownshipCode": "MMR010017",
+    "TownshipName": "Myingyan",
+    "StateCode": "MMR010"
+  },
+  {
+    "TownshipId": 133,
+    "TownshipCode": "MMR010015",
+    "TownshipName": "Myittha",
+    "StateCode": "MMR010"
+  },
+  {
+    "TownshipId": 134,
+    "TownshipCode": "MMR010019",
+    "TownshipName": "Natogyi",
+    "StateCode": "MMR010"
+  },
+  {
+    "TownshipId": 135,
+    "TownshipCode": "MMR010021",
+    "TownshipName": "Ngazun",
+    "StateCode": "MMR010"
+  },
+  {
+    "TownshipId": 136,
+    "TownshipCode": "MMR010022",
+    "TownshipName": "Nyaung-U",
+    "StateCode": "MMR010"
+  },
+  {
+    "TownshipId": 137,
+    "TownshipCode": "MMR010007",
+    "TownshipName": "Patheingyi",
+    "StateCode": "MMR010"
+  },
+  {
+    "TownshipId": 138,
+    "TownshipCode": "MMR010024",
+    "TownshipName": "Pyawbwe",
+    "StateCode": "MMR010"
+  },
+  {
+    "TownshipId": 139,
+    "TownshipCode": "MMR010005",
+    "TownshipName": "Pyigyitagon",
+    "StateCode": "MMR010"
+  },
+  {
+    "TownshipId": 140,
+    "TownshipCode": "MMR010008",
+    "TownshipName": "Pyinoolwin",
+    "StateCode": "MMR010"
+  },
+  {
+    "TownshipId": 141,
+    "TownshipCode": "MMR010010",
+    "TownshipName": "Singu",
+    "StateCode": "MMR010"
+  },
+  {
+    "TownshipId": 142,
+    "TownshipCode": "MMR010014",
+    "TownshipName": "Sintgaing",
+    "StateCode": "MMR010"
+  },
+  {
+    "TownshipId": 143,
+    "TownshipCode": "MMR010016",
+    "TownshipName": "Tada-U",
+    "StateCode": "MMR010"
+  },
+  {
+    "TownshipId": 144,
+    "TownshipCode": "MMR010018",
+    "TownshipName": "Taungtha",
+    "StateCode": "MMR010"
+  },
+  {
+    "TownshipId": 145,
+    "TownshipCode": "MMR010012",
+    "TownshipName": "Thabeikkyin",
+    "StateCode": "MMR010"
+  },
+  {
+    "TownshipId": 146,
+    "TownshipCode": "MMR010030",
+    "TownshipName": "Thazi",
+    "StateCode": "MMR010"
+  },
+  {
+    "TownshipId": 147,
+    "TownshipCode": "MMR010031",
+    "TownshipName": "Wundwin",
+    "StateCode": "MMR010"
+  },
+  {
+    "TownshipId": 148,
+    "TownshipCode": "MMR010023",
+    "TownshipName": "Yamethin",
+    "StateCode": "MMR010"
+  },
+  {
+    "TownshipId": 149,
+    "TownshipCode": "MMR011010",
+    "TownshipName": "Bilin",
+    "StateCode": "MMR011"
+  },
+  {
+    "TownshipId": 150,
+    "TownshipCode": "MMR011003",
+    "TownshipName": "Chaungzon",
+    "StateCode": "MMR011"
+  },
+  {
+    "TownshipId": 151,
+    "TownshipCode": "MMR011002",
+    "TownshipName": "Kyaikmaraw",
+    "StateCode": "MMR011"
+  },
+  {
+    "TownshipId": 152,
+    "TownshipCode": "MMR011009",
+    "TownshipName": "Kyaikto",
+    "StateCode": "MMR011"
+  },
+  {
+    "TownshipId": 153,
+    "TownshipCode": "MMR011001",
+    "TownshipName": "Mawlamyine",
+    "StateCode": "MMR011"
+  },
+  {
+    "TownshipId": 154,
+    "TownshipCode": "MMR011005",
+    "TownshipName": "Mudon",
+    "StateCode": "MMR011"
+  },
+  {
+    "TownshipId": 155,
+    "TownshipCode": "MMR011008",
+    "TownshipName": "Paung",
+    "StateCode": "MMR011"
+  },
+  {
+    "TownshipId": 156,
+    "TownshipCode": "MMR011004",
+    "TownshipName": "Thanbyuzayat",
+    "StateCode": "MMR011"
+  },
+  {
+    "TownshipId": 157,
+    "TownshipCode": "MMR011007",
+    "TownshipName": "Thaton",
+    "StateCode": "MMR011"
+  },
+  {
+    "TownshipId": 158,
+    "TownshipCode": "MMR011006",
+    "TownshipName": "Ye",
+    "StateCode": "MMR011"
+  },
+  {
+    "TownshipId": 159,
+    "TownshipCode": "MMR018004",
+    "TownshipName": "Det Khi Na Thi Ri",
+    "StateCode": "MMR018"
+  },
+  {
+    "TownshipId": 160,
+    "TownshipCode": "MMR018007",
+    "TownshipName": "Lewe",
+    "StateCode": "MMR018"
+  },
+  {
+    "TownshipId": 161,
+    "TownshipCode": "MMR018008",
+    "TownshipName": "Oke Ta Ra Thi Ri",
+    "StateCode": "MMR018"
+  },
+  {
+    "TownshipId": 162,
+    "TownshipCode": "MMR018005",
+    "TownshipName": "Poke Ba Thi Ri",
+    "StateCode": "MMR018"
+  },
+  {
+    "TownshipId": 163,
+    "TownshipCode": "MMR018006",
+    "TownshipName": "Pyinmana",
+    "StateCode": "MMR018"
+  },
+  {
+    "TownshipId": 164,
+    "TownshipCode": "MMR018003",
+    "TownshipName": "Tatkon",
+    "StateCode": "MMR018"
+  },
+  {
+    "TownshipId": 165,
+    "TownshipCode": "MMR018002",
+    "TownshipName": "Za Bu Thi Ri",
+    "StateCode": "MMR018"
+  },
+  {
+    "TownshipId": 166,
+    "TownshipCode": "MMR018001",
+    "TownshipName": "Zay Yar Thi Ri",
+    "StateCode": "MMR018"
+  },
+  {
+    "TownshipId": 167,
+    "TownshipCode": "MMR012014",
+    "TownshipName": "Ann",
+    "StateCode": "MMR012"
+  },
+  {
+    "TownshipId": 168,
+    "TownshipCode": "MMR012010",
+    "TownshipName": "Buthidaung",
+    "StateCode": "MMR012"
+  },
+  {
+    "TownshipId": 169,
+    "TownshipCode": "MMR012017",
+    "TownshipName": "Gwa",
+    "StateCode": "MMR012"
+  },
+  {
+    "TownshipId": 170,
+    "TownshipCode": "MMR012011",
+    "TownshipName": "Kyaukpyu",
+    "StateCode": "MMR012"
+  },
+  {
+    "TownshipId": 171,
+    "TownshipCode": "MMR012004",
+    "TownshipName": "Kyauktaw",
+    "StateCode": "MMR012"
+  },
+  {
+    "TownshipId": 172,
+    "TownshipCode": "MMR012009",
+    "TownshipName": "Maungdaw",
+    "StateCode": "MMR012"
+  },
+  {
+    "TownshipId": 173,
+    "TownshipCode": "MMR012005",
+    "TownshipName": "Minbya",
+    "StateCode": "MMR012"
+  },
+  {
+    "TownshipId": 174,
+    "TownshipCode": "MMR012003",
+    "TownshipName": "Mrauk-U",
+    "StateCode": "MMR012"
+  },
+  {
+    "TownshipId": 175,
+    "TownshipCode": "MMR012012",
+    "TownshipName": "Munaung",
+    "StateCode": "MMR012"
+  },
+  {
+    "TownshipId": 176,
+    "TownshipCode": "MMR012006",
+    "TownshipName": "Myebon",
+    "StateCode": "MMR012"
+  },
+  {
+    "TownshipId": 177,
+    "TownshipCode": "MMR012007",
+    "TownshipName": "Pauktaw",
+    "StateCode": "MMR012"
+  },
+  {
+    "TownshipId": 178,
+    "TownshipCode": "MMR012002",
+    "TownshipName": "Ponnagyun",
+    "StateCode": "MMR012"
+  },
+  {
+    "TownshipId": 179,
+    "TownshipCode": "MMR012013",
+    "TownshipName": "Ramree",
+    "StateCode": "MMR012"
+  },
+  {
+    "TownshipId": 180,
+    "TownshipCode": "MMR012008",
+    "TownshipName": "Rathedaung",
+    "StateCode": "MMR012"
+  },
+  {
+    "TownshipId": 181,
+    "TownshipCode": "MMR012001",
+    "TownshipName": "Sittwe",
+    "StateCode": "MMR012"
+  },
+  {
+    "TownshipId": 182,
+    "TownshipCode": "MMR012015",
+    "TownshipName": "Thandwe",
+    "StateCode": "MMR012"
+  },
+  {
+    "TownshipId": 183,
+    "TownshipCode": "MMR012016",
+    "TownshipName": "Toungup",
+    "StateCode": "MMR012"
+  },
+  {
+    "TownshipId": 184,
+    "TownshipCode": "MMR005014",
+    "TownshipName": "Ayadaw",
+    "StateCode": "MMR005"
+  },
+  {
+    "TownshipId": 185,
+    "TownshipCode": "MMR005023",
+    "TownshipName": "Banmauk",
+    "StateCode": "MMR005"
+  },
+  {
+    "TownshipId": 186,
+    "TownshipCode": "MMR005013",
+    "TownshipName": "Budalin",
+    "StateCode": "MMR005"
+  },
+  {
+    "TownshipId": 187,
+    "TownshipCode": "MMR005015",
+    "TownshipName": "Chaung-U",
+    "StateCode": "MMR005"
+  },
+  {
+    "TownshipId": 188,
+    "TownshipCode": "MMR005033",
+    "TownshipName": "Hkamti",
+    "StateCode": "MMR005"
+  },
+  {
+    "TownshipId": 189,
+    "TownshipCode": "MMR005034",
+    "TownshipName": "Homalin",
+    "StateCode": "MMR005"
+  },
+  {
+    "TownshipId": 190,
+    "TownshipCode": "MMR005021",
+    "TownshipName": "Indaw",
+    "StateCode": "MMR005"
+  },
+  {
+    "TownshipId": 191,
+    "TownshipCode": "MMR005027",
+    "TownshipName": "Kale",
+    "StateCode": "MMR005"
+  },
+  {
+    "TownshipId": 192,
+    "TownshipCode": "MMR005028",
+    "TownshipName": "Kalewa",
+    "StateCode": "MMR005"
+  },
+  {
+    "TownshipId": 193,
+    "TownshipCode": "MMR005007",
+    "TownshipName": "Kanbalu",
+    "StateCode": "MMR005"
+  },
+  {
+    "TownshipId": 194,
+    "TownshipCode": "MMR005017",
+    "TownshipName": "Kani",
+    "StateCode": "MMR005"
+  },
+  {
+    "TownshipId": 195,
+    "TownshipCode": "MMR005020",
+    "TownshipName": "Katha",
+    "StateCode": "MMR005"
+  },
+  {
+    "TownshipId": 196,
+    "TownshipCode": "MMR005024",
+    "TownshipName": "Kawlin",
+    "StateCode": "MMR005"
+  },
+  {
+    "TownshipId": 197,
+    "TownshipCode": "MMR005005",
+    "TownshipName": "Khin-U",
+    "StateCode": "MMR005"
+  },
+  {
+    "TownshipId": 198,
+    "TownshipCode": "MMR005008",
+    "TownshipName": "Kyunhla",
+    "StateCode": "MMR005"
+  },
+  {
+    "TownshipId": 199,
+    "TownshipCode": "MMR005036",
+    "TownshipName": "Lahe",
+    "StateCode": "MMR005"
+  },
+  {
+    "TownshipId": 200,
+    "TownshipCode": "MMR005035",
+    "TownshipName": "Layshi",
+    "StateCode": "MMR005"
+  },
+  {
+    "TownshipId": 201,
+    "TownshipCode": "MMR005031",
+    "TownshipName": "Mawlaik",
+    "StateCode": "MMR005"
+  },
+  {
+    "TownshipId": 202,
+    "TownshipCode": "MMR005029",
+    "TownshipName": "Mingin",
+    "StateCode": "MMR005"
+  },
+  {
+    "TownshipId": 203,
+    "TownshipCode": "MMR005012",
+    "TownshipName": "Monywa",
+    "StateCode": "MMR005"
+  },
+  {
+    "TownshipId": 204,
+    "TownshipCode": "MMR005003",
+    "TownshipName": "Myaung",
+    "StateCode": "MMR005"
+  },
+  {
+    "TownshipId": 205,
+    "TownshipCode": "MMR005002",
+    "TownshipName": "Myinmu",
+    "StateCode": "MMR005"
+  },
+  {
+    "TownshipId": 206,
+    "TownshipCode": "MMR005037",
+    "TownshipName": "Nanyun",
+    "StateCode": "MMR005"
+  },
+  {
+    "TownshipId": 207,
+    "TownshipCode": "MMR005019",
+    "TownshipName": "Pale",
+    "StateCode": "MMR005"
+  },
+  {
+    "TownshipId": 208,
+    "TownshipCode": "MMR005032",
+    "TownshipName": "Paungbyin",
+    "StateCode": "MMR005"
+  },
+  {
+    "TownshipId": 209,
+    "TownshipCode": "MMR005026",
+    "TownshipName": "Pinlebu",
+    "StateCode": "MMR005"
+  },
+  {
+    "TownshipId": 210,
+    "TownshipCode": "MMR005001",
+    "TownshipName": "Sagaing",
+    "StateCode": "MMR005"
+  },
+  {
+    "TownshipId": 211,
+    "TownshipCode": "MMR005018",
+    "TownshipName": "Salingyi",
+    "StateCode": "MMR005"
+  },
+  {
+    "TownshipId": 212,
+    "TownshipCode": "MMR005004",
+    "TownshipName": "Shwebo",
+    "StateCode": "MMR005"
+  },
+  {
+    "TownshipId": 213,
+    "TownshipCode": "MMR005010",
+    "TownshipName": "Tabayin",
+    "StateCode": "MMR005"
+  },
+  {
+    "TownshipId": 214,
+    "TownshipCode": "MMR005030",
+    "TownshipName": "Tamu",
+    "StateCode": "MMR005"
+  },
+  {
+    "TownshipId": 215,
+    "TownshipCode": "MMR005011",
+    "TownshipName": "Taze",
+    "StateCode": "MMR005"
+  },
+  {
+    "TownshipId": 216,
+    "TownshipCode": "MMR005022",
+    "TownshipName": "Tigyaing",
+    "StateCode": "MMR005"
+  },
+  {
+    "TownshipId": 217,
+    "TownshipCode": "MMR005006",
+    "TownshipName": "Wetlet",
+    "StateCode": "MMR005"
+  },
+  {
+    "TownshipId": 218,
+    "TownshipCode": "MMR005025",
+    "TownshipName": "Wuntho",
+    "StateCode": "MMR005"
+  },
+  {
+    "TownshipId": 219,
+    "TownshipCode": "MMR005009",
+    "TownshipName": "Ye-U",
+    "StateCode": "MMR005"
+  },
+  {
+    "TownshipId": 220,
+    "TownshipCode": "MMR005016",
+    "TownshipName": "Yinmarbin",
+    "StateCode": "MMR005"
+  },
+  {
+    "TownshipId": 221,
+    "TownshipCode": "MMR016320",
+    "TownshipName": "Ho Tawng (Ho Tao)",
+    "StateCode": "MMR016"
+  },
+  {
+    "TownshipId": 222,
+    "TownshipCode": "MMR016001",
+    "TownshipName": "Kengtung",
+    "StateCode": "MMR016"
+  },
+  {
+    "TownshipId": 223,
+    "TownshipCode": "MMR016319",
+    "TownshipName": "Mong Hpen",
+    "StateCode": "MMR016"
+  },
+  {
+    "TownshipId": 224,
+    "TownshipCode": "MMR016322",
+    "TownshipName": "Mong Kar",
+    "StateCode": "MMR016"
+  },
+  {
+    "TownshipId": 225,
+    "TownshipCode": "MMR016321",
+    "TownshipName": "Mong Pawk",
+    "StateCode": "MMR016"
+  },
+  {
+    "TownshipId": 226,
+    "TownshipCode": "MMR016010",
+    "TownshipName": "Monghpyak",
+    "StateCode": "MMR016"
+  },
+  {
+    "TownshipId": 227,
+    "TownshipCode": "MMR016006",
+    "TownshipName": "Monghsat",
+    "StateCode": "MMR016"
+  },
+  {
+    "TownshipId": 228,
+    "TownshipCode": "MMR016002",
+    "TownshipName": "Mongkhet",
+    "StateCode": "MMR016"
+  },
+  {
+    "TownshipId": 229,
+    "TownshipCode": "MMR016005",
+    "TownshipName": "Mongla",
+    "StateCode": "MMR016"
+  },
+  {
+    "TownshipId": 230,
+    "TownshipCode": "MMR016007",
+    "TownshipName": "Mongping",
+    "StateCode": "MMR016"
+  },
+  {
+    "TownshipId": 231,
+    "TownshipCode": "MMR016008",
+    "TownshipName": "Mongton",
+    "StateCode": "MMR016"
+  },
+  {
+    "TownshipId": 232,
+    "TownshipCode": "MMR016003",
+    "TownshipName": "Mongyang",
+    "StateCode": "MMR016"
+  },
+  {
+    "TownshipId": 233,
+    "TownshipCode": "MMR016011",
+    "TownshipName": "Mongyawng",
+    "StateCode": "MMR016"
+  },
+  {
+    "TownshipId": 234,
+    "TownshipCode": "MMR016323",
+    "TownshipName": "Nam Hpai",
+    "StateCode": "MMR016"
+  },
+  {
+    "TownshipId": 235,
+    "TownshipCode": "MMR016009",
+    "TownshipName": "Tachileik",
+    "StateCode": "MMR016"
+  },
+  {
+    "TownshipId": 236,
+    "TownshipCode": "MMR015311",
+    "TownshipName": "Aik Chan (Ai' Chun)",
+    "StateCode": "MMR015"
+  },
+  {
+    "TownshipId": 237,
+    "TownshipCode": "MMR015203",
+    "TownshipName": "Chinshwehaw Sub-township (Kokang SAZ)",
+    "StateCode": "MMR015"
+  },
+  {
+    "TownshipId": 238,
+    "TownshipCode": "MMR015306",
+    "TownshipName": "Hkun Mar (Hkwin Ma)",
+    "StateCode": "MMR015"
+  },
+  {
+    "TownshipId": 239,
+    "TownshipCode": "MMR015021",
+    "TownshipName": "Hopang",
+    "StateCode": "MMR015"
+  },
+  {
+    "TownshipId": 240,
+    "TownshipCode": "MMR015305",
+    "TownshipName": "Hsawng Hpa (Saun Pha)",
+    "StateCode": "MMR015"
+  },
+  {
+    "TownshipId": 241,
+    "TownshipCode": "MMR015002",
+    "TownshipName": "Hseni",
+    "StateCode": "MMR015"
+  },
+  {
+    "TownshipId": 242,
+    "TownshipCode": "MMR015014",
+    "TownshipName": "Hsipaw",
+    "StateCode": "MMR015"
+  },
+  {
+    "TownshipId": 243,
+    "TownshipCode": "MMR015310",
+    "TownshipName": "Ka Lawng Hpar",
+    "StateCode": "MMR015"
+  },
+  {
+    "TownshipId": 244,
+    "TownshipCode": "MMR015304",
+    "TownshipName": "Kawng Min Hsang",
+    "StateCode": "MMR015"
+  },
+  {
+    "TownshipId": 245,
+    "TownshipCode": "MMR015023",
+    "TownshipName": "Konkyan",
+    "StateCode": "MMR015"
+  },
+  {
+    "TownshipId": 246,
+    "TownshipCode": "MMR015201",
+    "TownshipName": "Konkyan (Kokang SAZ)",
+    "StateCode": "MMR015"
+  },
+  {
+    "TownshipId": 247,
+    "TownshipCode": "MMR015020",
+    "TownshipName": "Kunlong",
+    "StateCode": "MMR015"
+  },
+  {
+    "TownshipId": 248,
+    "TownshipCode": "MMR015011",
+    "TownshipName": "Kutkai",
+    "StateCode": "MMR015"
+  },
+  {
+    "TownshipId": 249,
+    "TownshipCode": "MMR015012",
+    "TownshipName": "Kyaukme",
+    "StateCode": "MMR015"
+  },
+  {
+    "TownshipId": 250,
+    "TownshipCode": "MMR015001",
+    "TownshipName": "Lashio",
+    "StateCode": "MMR015"
+  },
+  {
+    "TownshipId": 251,
+    "TownshipCode": "MMR015022",
+    "TownshipName": "Laukkaing",
+    "StateCode": "MMR015"
+  },
+  {
+    "TownshipId": 252,
+    "TownshipCode": "MMR015202",
+    "TownshipName": "Laukkaing (Kokang SAZ)",
+    "StateCode": "MMR015"
+  },
+  {
+    "TownshipId": 253,
+    "TownshipCode": "MMR015309",
+    "TownshipName": "Lin Haw",
+    "StateCode": "MMR015"
+  },
+  {
+    "TownshipId": 254,
+    "TownshipCode": "MMR015307",
+    "TownshipName": "Long Htan",
+    "StateCode": "MMR015"
+  },
+  {
+    "TownshipId": 255,
+    "TownshipCode": "MMR015018",
+    "TownshipName": "Mabein",
+    "StateCode": "MMR015"
+  },
+  {
+    "TownshipId": 256,
+    "TownshipCode": "MMR015313",
+    "TownshipName": "Man Man Hseng",
+    "StateCode": "MMR015"
+  },
+  {
+    "TownshipId": 257,
+    "TownshipCode": "MMR015303",
+    "TownshipName": "Man Tun",
+    "StateCode": "MMR015"
+  },
+  {
+    "TownshipId": 258,
+    "TownshipCode": "MMR015019",
+    "TownshipName": "Manton",
+    "StateCode": "MMR015"
+  },
+  {
+    "TownshipId": 259,
+    "TownshipCode": "MMR015024",
+    "TownshipName": "Matman",
+    "StateCode": "MMR015"
+  },
+  {
+    "TownshipId": 260,
+    "TownshipCode": "MMR015008",
+    "TownshipName": "Mongmao",
+    "StateCode": "MMR015"
+  },
+  {
+    "TownshipId": 261,
+    "TownshipCode": "MMR015017",
+    "TownshipName": "Mongmit",
+    "StateCode": "MMR015"
+  },
+  {
+    "TownshipId": 262,
+    "TownshipCode": "MMR015003",
+    "TownshipName": "Mongyai",
+    "StateCode": "MMR015"
+  },
+  {
+    "TownshipId": 263,
+    "TownshipCode": "MMR015009",
+    "TownshipName": "Muse",
+    "StateCode": "MMR015"
+  },
+  {
+    "TownshipId": 264,
+    "TownshipCode": "MMR015315",
+    "TownshipName": "Nam Hkam Wu",
+    "StateCode": "MMR015"
+  },
+  {
+    "TownshipId": 265,
+    "TownshipCode": "MMR015301",
+    "TownshipName": "Nam Tit",
+    "StateCode": "MMR015"
+  },
+  {
+    "TownshipId": 266,
+    "TownshipCode": "MMR015010",
+    "TownshipName": "Namhkan",
+    "StateCode": "MMR015"
+  },
+  {
+    "TownshipId": 267,
+    "TownshipCode": "MMR015016",
+    "TownshipName": "Namhsan",
+    "StateCode": "MMR015"
+  },
+  {
+    "TownshipId": 268,
+    "TownshipCode": "MMR015015",
+    "TownshipName": "Namtu",
+    "StateCode": "MMR015"
+  },
+  {
+    "TownshipId": 269,
+    "TownshipCode": "MMR015316",
+    "TownshipName": "Nar Kawng",
+    "StateCode": "MMR015"
+  },
+  {
+    "TownshipId": 270,
+    "TownshipCode": "MMR015302",
+    "TownshipName": "Nar Wee (Na Wi)",
+    "StateCode": "MMR015"
+  },
+  {
+    "TownshipId": 271,
+    "TownshipCode": "MMR015006",
+    "TownshipName": "Narphan",
+    "StateCode": "MMR015"
+  },
+  {
+    "TownshipId": 272,
+    "TownshipCode": "MMR015314",
+    "TownshipName": "Nawng Hkit",
+    "StateCode": "MMR015"
+  },
+  {
+    "TownshipId": 273,
+    "TownshipCode": "MMR015013",
+    "TownshipName": "Nawnghkio",
+    "StateCode": "MMR015"
+  },
+  {
+    "TownshipId": 274,
+    "TownshipCode": "MMR015317",
+    "TownshipName": "Pang Hkam",
+    "StateCode": "MMR015"
+  },
+  {
+    "TownshipId": 275,
+    "TownshipCode": "MMR015318",
+    "TownshipName": "Pang Yang",
+    "StateCode": "MMR015"
+  },
+  {
+    "TownshipId": 276,
+    "TownshipCode": "MMR015005",
+    "TownshipName": "Pangsang (Panghkam)",
+    "StateCode": "MMR015"
+  },
+  {
+    "TownshipId": 277,
+    "TownshipCode": "MMR015007",
+    "TownshipName": "Pangwaun",
+    "StateCode": "MMR015"
+  },
+  {
+    "TownshipId": 278,
+    "TownshipCode": "MMR015004",
+    "TownshipName": "Tangyan",
+    "StateCode": "MMR015"
+  },
+  {
+    "TownshipId": 279,
+    "TownshipCode": "MMR015308",
+    "TownshipName": "Yawng Lin",
+    "StateCode": "MMR015"
+  },
+  {
+    "TownshipId": 280,
+    "TownshipCode": "MMR015312",
+    "TownshipName": "Yin Pang",
+    "StateCode": "MMR015"
+  },
+  {
+    "TownshipId": 281,
+    "TownshipCode": "MMR014003",
+    "TownshipName": "Hopong",
+    "StateCode": "MMR014"
+  },
+  {
+    "TownshipId": 282,
+    "TownshipCode": "MMR014004",
+    "TownshipName": "Hsihseng",
+    "StateCode": "MMR014"
+  },
+  {
+    "TownshipId": 283,
+    "TownshipCode": "MMR014005",
+    "TownshipName": "Kalaw",
+    "StateCode": "MMR014"
+  },
+  {
+    "TownshipId": 284,
+    "TownshipCode": "MMR014014",
+    "TownshipName": "Kunhing",
+    "StateCode": "MMR014"
+  },
+  {
+    "TownshipId": 285,
+    "TownshipCode": "MMR014015",
+    "TownshipName": "Kyethi",
+    "StateCode": "MMR014"
+  },
+  {
+    "TownshipId": 286,
+    "TownshipCode": "MMR014012",
+    "TownshipName": "Laihka",
+    "StateCode": "MMR014"
+  },
+  {
+    "TownshipId": 287,
+    "TownshipCode": "MMR014018",
+    "TownshipName": "Langkho",
+    "StateCode": "MMR014"
+  },
+  {
+    "TownshipId": 288,
+    "TownshipCode": "MMR014008",
+    "TownshipName": "Lawksawk",
+    "StateCode": "MMR014"
+  },
+  {
+    "TownshipId": 289,
+    "TownshipCode": "MMR014011",
+    "TownshipName": "Loilen",
+    "StateCode": "MMR014"
+  },
+  {
+    "TownshipId": 290,
+    "TownshipCode": "MMR014020",
+    "TownshipName": "Mawkmai",
+    "StateCode": "MMR014"
+  },
+  {
+    "TownshipId": 291,
+    "TownshipCode": "MMR014017",
+    "TownshipName": "Monghsu",
+    "StateCode": "MMR014"
+  },
+  {
+    "TownshipId": 292,
+    "TownshipCode": "MMR014016",
+    "TownshipName": "Mongkaing",
+    "StateCode": "MMR014"
+  },
+  {
+    "TownshipId": 293,
+    "TownshipCode": "MMR014019",
+    "TownshipName": "Mongnai",
+    "StateCode": "MMR014"
+  },
+  {
+    "TownshipId": 294,
+    "TownshipCode": "MMR014021",
+    "TownshipName": "Mongpan",
+    "StateCode": "MMR014"
+  },
+  {
+    "TownshipId": 295,
+    "TownshipCode": "MMR014013",
+    "TownshipName": "Nansang",
+    "StateCode": "MMR014"
+  },
+  {
+    "TownshipId": 296,
+    "TownshipCode": "MMR014002",
+    "TownshipName": "Nyaungshwe",
+    "StateCode": "MMR014"
+  },
+  {
+    "TownshipId": 297,
+    "TownshipCode": "MMR014010",
+    "TownshipName": "Pekon",
+    "StateCode": "MMR014"
+  },
+  {
+    "TownshipId": 298,
+    "TownshipCode": "MMR014006",
+    "TownshipName": "Pindaya",
+    "StateCode": "MMR014"
+  },
+  {
+    "TownshipId": 299,
+    "TownshipCode": "MMR014009",
+    "TownshipName": "Pinlaung",
+    "StateCode": "MMR014"
+  },
+  {
+    "TownshipId": 300,
+    "TownshipCode": "MMR014001",
+    "TownshipName": "Taunggyi",
+    "StateCode": "MMR014"
+  },
+  {
+    "TownshipId": 301,
+    "TownshipCode": "MMR014007",
+    "TownshipName": "Ywangan",
+    "StateCode": "MMR014"
+  },
+  {
+    "TownshipId": 302,
+    "TownshipCode": "MMR006010",
+    "TownshipName": "Bokpyin",
+    "StateCode": "MMR006"
+  },
+  {
+    "TownshipId": 303,
+    "TownshipCode": "MMR006001",
+    "TownshipName": "Dawei",
+    "StateCode": "MMR006"
+  },
+  {
+    "TownshipId": 304,
+    "TownshipCode": "MMR006009",
+    "TownshipName": "Kawthoung",
+    "StateCode": "MMR006"
+  },
+  {
+    "TownshipId": 305,
+    "TownshipCode": "MMR006006",
+    "TownshipName": "Kyunsu",
+    "StateCode": "MMR006"
+  },
+  {
+    "TownshipId": 306,
+    "TownshipCode": "MMR006002",
+    "TownshipName": "Launglon",
+    "StateCode": "MMR006"
+  },
+  {
+    "TownshipId": 307,
+    "TownshipCode": "MMR006005",
+    "TownshipName": "Myeik",
+    "StateCode": "MMR006"
+  },
+  {
+    "TownshipId": 308,
+    "TownshipCode": "MMR006007",
+    "TownshipName": "Palaw",
+    "StateCode": "MMR006"
+  },
+  {
+    "TownshipId": 309,
+    "TownshipCode": "MMR006008",
+    "TownshipName": "Tanintharyi",
+    "StateCode": "MMR006"
+  },
+  {
+    "TownshipId": 310,
+    "TownshipCode": "MMR006003",
+    "TownshipName": "Thayetchaung",
+    "StateCode": "MMR006"
+  },
+  {
+    "TownshipId": 311,
+    "TownshipCode": "MMR006004",
+    "TownshipName": "Yebyu",
+    "StateCode": "MMR006"
+  },
+  {
+    "TownshipId": 312,
+    "TownshipCode": "MMR013037",
+    "TownshipName": "Ahlone",
+    "StateCode": "MMR013"
+  },
+  {
+    "TownshipId": 313,
+    "TownshipCode": "MMR013044",
+    "TownshipName": "Bahan",
+    "StateCode": "MMR013"
+  },
+  {
+    "TownshipId": 314,
+    "TownshipCode": "MMR013017",
+    "TownshipName": "Botahtaung",
+    "StateCode": "MMR013"
+  },
+  {
+    "TownshipId": 315,
+    "TownshipCode": "MMR013032",
+    "TownshipName": "Cocokyun",
+    "StateCode": "MMR013"
+  },
+  {
+    "TownshipId": 316,
+    "TownshipCode": "MMR013043",
+    "TownshipName": "Dagon",
+    "StateCode": "MMR013"
+  },
+  {
+    "TownshipId": 317,
+    "TownshipCode": "MMR013020",
+    "TownshipName": "Dagon Myothit (East)",
+    "StateCode": "MMR013"
+  },
+  {
+    "TownshipId": 318,
+    "TownshipCode": "MMR013019",
+    "TownshipName": "Dagon Myothit (North)",
+    "StateCode": "MMR013"
+  },
+  {
+    "TownshipId": 319,
+    "TownshipCode": "MMR013021",
+    "TownshipName": "Dagon Myothit (Seikkan)",
+    "StateCode": "MMR013"
+  },
+  {
+    "TownshipId": 320,
+    "TownshipCode": "MMR013018",
+    "TownshipName": "Dagon Myothit (South)",
+    "StateCode": "MMR013"
+  },
+  {
+    "TownshipId": 321,
+    "TownshipCode": "MMR013030",
+    "TownshipName": "Dala",
+    "StateCode": "MMR013"
+  },
+  {
+    "TownshipId": 322,
+    "TownshipCode": "MMR013014",
+    "TownshipName": "Dawbon",
+    "StateCode": "MMR013"
+  },
+  {
+    "TownshipId": 323,
+    "TownshipCode": "MMR013040",
+    "TownshipName": "Hlaing",
+    "StateCode": "MMR013"
+  },
+  {
+    "TownshipId": 324,
+    "TownshipCode": "MMR013008",
+    "TownshipName": "Hlaingtharya",
+    "StateCode": "MMR013"
+  },
+  {
+    "TownshipId": 325,
+    "TownshipCode": "MMR013004",
+    "TownshipName": "Hlegu",
+    "StateCode": "MMR013"
+  },
+  {
+    "TownshipId": 326,
+    "TownshipCode": "MMR013003",
+    "TownshipName": "Hmawbi",
+    "StateCode": "MMR013"
+  },
+  {
+    "TownshipId": 327,
+    "TownshipCode": "MMR013006",
+    "TownshipName": "Htantabin",
+    "StateCode": "MMR013"
+  },
+  {
+    "TownshipId": 328,
+    "TownshipCode": "MMR013001",
+    "TownshipName": "Insein",
+    "StateCode": "MMR013"
+  },
+  {
+    "TownshipId": 329,
+    "TownshipCode": "MMR013041",
+    "TownshipName": "Kamaryut",
+    "StateCode": "MMR013"
+  },
+  {
+    "TownshipId": 330,
+    "TownshipCode": "MMR013028",
+    "TownshipName": "Kawhmu",
+    "StateCode": "MMR013"
+  },
+  {
+    "TownshipId": 331,
+    "TownshipCode": "MMR013026",
+    "TownshipName": "Kayan",
+    "StateCode": "MMR013"
+  },
+  {
+    "TownshipId": 332,
+    "TownshipCode": "MMR013029",
+    "TownshipName": "Kungyangon",
+    "StateCode": "MMR013"
+  },
+  {
+    "TownshipId": 333,
+    "TownshipCode": "MMR013033",
+    "TownshipName": "Kyauktada",
+    "StateCode": "MMR013"
+  },
+  {
+    "TownshipId": 334,
+    "TownshipCode": "MMR013024",
+    "TownshipName": "Kyauktan",
+    "StateCode": "MMR013"
+  },
+  {
+    "TownshipId": 335,
+    "TownshipCode": "MMR013038",
+    "TownshipName": "Kyeemyindaing",
+    "StateCode": "MMR013"
+  },
+  {
+    "TownshipId": 336,
+    "TownshipCode": "MMR013035",
+    "TownshipName": "Lanmadaw",
+    "StateCode": "MMR013"
+  },
+  {
+    "TownshipId": 337,
+    "TownshipCode": "MMR013036",
+    "TownshipName": "Latha",
+    "StateCode": "MMR013"
+  },
+  {
+    "TownshipId": 338,
+    "TownshipCode": "MMR013042",
+    "TownshipName": "Mayangone",
+    "StateCode": "MMR013"
+  },
+  {
+    "TownshipId": 339,
+    "TownshipCode": "MMR013002",
+    "TownshipName": "Mingaladon",
+    "StateCode": "MMR013"
+  },
+  {
+    "TownshipId": 340,
+    "TownshipCode": "MMR013022",
+    "TownshipName": "Mingalartaungnyunt",
+    "StateCode": "MMR013"
+  },
+  {
+    "TownshipId": 341,
+    "TownshipCode": "MMR013012",
+    "TownshipName": "North Okkalapa",
+    "StateCode": "MMR013"
+  },
+  {
+    "TownshipId": 342,
+    "TownshipCode": "MMR013034",
+    "TownshipName": "Pabedan",
+    "StateCode": "MMR013"
+  },
+  {
+    "TownshipId": 343,
+    "TownshipCode": "MMR013016",
+    "TownshipName": "Pazundaung",
+    "StateCode": "MMR013"
+  },
+  {
+    "TownshipId": 344,
+    "TownshipCode": "MMR013039",
+    "TownshipName": "Sanchaung",
+    "StateCode": "MMR013"
+  },
+  {
+    "TownshipId": 345,
+    "TownshipCode": "MMR013031",
+    "TownshipName": "Seikgyikanaungto",
+    "StateCode": "MMR013"
+  },
+  {
+    "TownshipId": 346,
+    "TownshipCode": "MMR013045",
+    "TownshipName": "Seikkan",
+    "StateCode": "MMR013"
+  },
+  {
+    "TownshipId": 347,
+    "TownshipCode": "MMR013007",
+    "TownshipName": "Shwepyithar",
+    "StateCode": "MMR013"
+  },
+  {
+    "TownshipId": 348,
+    "TownshipCode": "MMR013011",
+    "TownshipName": "South Okkalapa",
+    "StateCode": "MMR013"
+  },
+  {
+    "TownshipId": 349,
+    "TownshipCode": "MMR013005",
+    "TownshipName": "Taikkyi",
+    "StateCode": "MMR013"
+  },
+  {
+    "TownshipId": 350,
+    "TownshipCode": "MMR013015",
+    "TownshipName": "Tamwe",
+    "StateCode": "MMR013"
+  },
+  {
+    "TownshipId": 351,
+    "TownshipCode": "MMR013013",
+    "TownshipName": "Thaketa",
+    "StateCode": "MMR013"
+  },
+  {
+    "TownshipId": 352,
+    "TownshipCode": "MMR013023",
+    "TownshipName": "Thanlyin",
+    "StateCode": "MMR013"
+  },
+  {
+    "TownshipId": 353,
+    "TownshipCode": "MMR013009",
+    "TownshipName": "Thingangyun",
+    "StateCode": "MMR013"
+  },
+  {
+    "TownshipId": 354,
+    "TownshipCode": "MMR013025",
+    "TownshipName": "Thongwa",
+    "StateCode": "MMR013"
+  },
+  {
+    "TownshipId": 355,
+    "TownshipCode": "MMR013027",
+    "TownshipName": "Twantay",
+    "StateCode": "MMR013"
+  },
+  {
+    "TownshipId": 356,
+    "TownshipCode": "MMR013010",
+    "TownshipName": "Yankin",
+    "StateCode": "MMR013"
+  },
+  {
+    "TownshipId": 357,
+    "TownshipCode": "MMR013046",
+    "TownshipName": "Hlaingtharya (East)",
+    "StateCode": "MMR013"
+  },
+  {
+    "TownshipId": 358,
+    "TownshipCode": "MMR013047",
+    "TownshipName": "Hlaingtharya (West)",
+    "StateCode": "MMR013"
+  }
+]
