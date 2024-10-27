@@ -108,3 +108,65 @@ Logic
 Customer ငွေလွှဲသွားတဲ့ account တွေကို Date အလိုက်ကြည့်ရှုလို့ရတဲ့ Report ဖြစ်ပါတယ်။
 
 -----
+
+```sql
+
+-- State Table
+CREATE TABLE Tbl_States (
+    StateId INT IDENTITY(1,1) PRIMARY KEY,
+    StateCode NVARCHAR(10) NOT NULL,
+    StateName NVARCHAR(100) NOT NULL
+);
+
+-- Township Table
+CREATE TABLE Tbl_Townships (
+    TownshipId INT IDENTITY(1,1) PRIMARY KEY,
+    TownshipCode NVARCHAR(10) NOT NULL,
+    TownshipName NVARCHAR(100) NOT NULL,
+    StateCode NVARCHAR(10) NOT NULL,
+    FOREIGN KEY (StateCode) REFERENCES Tbl_States(StateCode) ON DELETE CASCADE
+);
+
+-- Account Table
+CREATE TABLE Tbl_Accounts (
+    AccountId INT IDENTITY(1,1) PRIMARY KEY,
+    AccountNo AS (RIGHT('000000' + CONVERT(VARCHAR, AccountId), 6)) PERSISTED,
+    CustomerCode AS ('C' + RIGHT('000000' + CONVERT(VARCHAR, AccountId), 6)) PERSISTED,
+    CustomerName NVARCHAR(100) NOT NULL,
+    Balance DECIMAL(20, 2) NOT NULL DEFAULT 0,
+    StateCode NVARCHAR(10) NOT NULL,
+    TownshipCode NVARCHAR(10) NOT NULL,
+    FOREIGN KEY (StateCode) REFERENCES Tbl_States(StateCode),
+    FOREIGN KEY (TownshipCode) REFERENCES Tbl_Townships(TownshipCode) ON DELETE CASCADE
+);
+
+-- Transaction History Table
+CREATE TABLE Tbl_TransactionHistory (
+    TransactionHistoryId INT IDENTITY(1,1) PRIMARY KEY,
+    FromAccountNo NVARCHAR(10) NOT NULL,
+    ToAccountNo NVARCHAR(10) NOT NULL,
+    TransactionDate DATETIME NOT NULL DEFAULT GETDATE(),
+    Amount DECIMAL(20, 2) NOT NULL,
+    FOREIGN KEY (FromAccountNo) REFERENCES Tbl_Accounts(AccountNo),
+    FOREIGN KEY (ToAccountNo) REFERENCES Tbl_Accounts(AccountNo)
+);
+
+-- Deposit Table (for deposit transactions)
+CREATE TABLE Tbl_Deposits (
+    DepositId INT IDENTITY(1,1) PRIMARY KEY,
+    AccountNo NVARCHAR(10) NOT NULL,
+    DepositAmount DECIMAL(20, 2) NOT NULL,
+    DepositDate DATETIME NOT NULL DEFAULT GETDATE(),
+    FOREIGN KEY (AccountNo) REFERENCES Tbl_Accounts(AccountNo)
+);
+
+-- Withdraw Table (for withdrawal transactions)
+CREATE TABLE Tbl_Withdrawals (
+    WithdrawalId INT IDENTITY(1,1) PRIMARY KEY,
+    AccountNo NVARCHAR(10) NOT NULL,
+    WithdrawalAmount DECIMAL(20, 2) NOT NULL,
+    WithdrawalDate DATETIME NOT NULL DEFAULT GETDATE(),
+    FOREIGN KEY (AccountNo) REFERENCES Tbl_Accounts(AccountNo)
+);
+
+```
